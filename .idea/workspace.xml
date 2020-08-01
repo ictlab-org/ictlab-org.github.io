@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3b0f599-d1ec-425d-9f40-8cea848c2c3d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog-details-left.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog-details-left.html" afterDir="false" />
@@ -30,11 +31,72 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="112" column="44" selection-start-line="112" selection-start-column="44" selection-end-line="112" selection-end-column="44" />
+            <state relative-caret-position="95">
+              <caret line="34" column="19" lean-forward="true" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
+              <folding>
+                <element signature="e#16932#16938#0" expanded="true" />
+                <element signature="e#16938#16944#0" expanded="true" />
+                <element signature="e#17528#17534#0" expanded="true" />
+                <element signature="e#17534#17540#0" expanded="true" />
+                <element signature="e#18129#18135#0" expanded="true" />
+                <element signature="e#18135#18141#0" expanded="true" />
+                <element signature="e#18731#18737#0" expanded="true" />
+                <element signature="e#18737#18743#0" expanded="true" />
+                <element signature="e#19915#19921#0" expanded="true" />
+                <element signature="e#19921#19927#0" expanded="true" />
+                <element signature="e#20852#20858#0" expanded="true" />
+                <element signature="e#20858#20864#0" expanded="true" />
+                <element signature="e#21500#21506#0" expanded="true" />
+                <element signature="e#21506#21512#0" expanded="true" />
+                <element signature="e#21930#21936#0" expanded="true" />
+                <element signature="e#21936#21942#0" expanded="true" />
+                <element signature="e#22357#22363#0" expanded="true" />
+                <element signature="e#22363#22369#0" expanded="true" />
+                <element signature="e#23189#23195#0" expanded="true" />
+                <element signature="e#23195#23201#0" expanded="true" />
+                <element signature="e#23611#23617#0" expanded="true" />
+                <element signature="e#23617#23623#0" expanded="true" />
+                <element signature="e#24038#24044#0" expanded="true" />
+                <element signature="e#24044#24050#0" expanded="true" />
+                <element signature="e#25009#25015#0" expanded="true" />
+                <element signature="e#25015#25021#0" expanded="true" />
+                <element signature="e#25022#25028#0" expanded="true" />
+                <element signature="e#25028#25034#0" expanded="true" />
+                <element signature="e#25406#25412#0" expanded="true" />
+                <element signature="e#25412#25418#0" expanded="true" />
+                <element signature="e#25350#25356#0" expanded="true" />
+                <element signature="e#25356#25362#0" expanded="true" />
+                <element signature="e#25798#25804#0" expanded="true" />
+                <element signature="e#25804#25810#0" expanded="true" />
+                <element signature="e#25673#25679#0" expanded="true" />
+                <element signature="e#25679#25685#0" expanded="true" />
+                <element signature="e#29739#29745#0" expanded="true" />
+                <element signature="e#29745#29751#0" expanded="true" />
+                <element signature="e#34592#34598#0" expanded="true" />
+                <element signature="e#34598#34604#0" expanded="true" />
+                <element signature="e#35801#35807#0" expanded="true" />
+                <element signature="e#35807#35813#0" expanded="true" />
+                <element signature="e#36887#36893#0" expanded="true" />
+                <element signature="e#36893#36899#0" expanded="true" />
+                <element signature="e#37974#37980#0" expanded="true" />
+                <element signature="e#37980#37986#0" expanded="true" />
+                <element signature="e#41073#41079#0" expanded="true" />
+                <element signature="e#41079#41085#0" expanded="true" />
+                <element signature="e#44324#44330#0" expanded="true" />
+                <element signature="e#44330#44336#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contact.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="177">
+              <caret line="299" column="78" selection-start-line="299" selection-start-column="78" selection-end-line="299" selection-end-column="78" />
             </state>
           </provider>
         </entry>
@@ -42,8 +104,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6302">
-              <caret line="274" column="58" selection-start-line="274" selection-start-column="58" selection-end-line="274" selection-end-column="58" />
+            <state relative-caret-position="210">
+              <caret line="301" column="44" selection-start-line="301" selection-start-column="44" selection-end-line="301" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -51,8 +113,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/team-details.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6256">
-              <caret line="272" column="43" selection-start-line="272" selection-start-column="43" selection-end-line="272" selection-end-column="43" />
+            <state relative-caret-position="5796">
+              <caret line="252" column="43" selection-start-line="252" selection-start-column="43" selection-end-line="252" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -60,8 +122,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/service-details.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6302">
-              <caret line="274" column="81" selection-start-line="274" selection-start-column="81" selection-end-line="274" selection-end-column="81" />
+            <state relative-caret-position="-319">
+              <caret line="254" column="81" selection-start-line="254" selection-start-column="81" selection-end-line="254" selection-end-column="81" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/service.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="117">
+              <caret line="506" column="21" lean-forward="true" selection-start-line="426" selection-start-column="8" selection-end-line="506" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -80,11 +151,53 @@
       <find>&lt;a href=&quot;https://hasthemes.com&quot;&gt;Karen&lt;/a&gt;</find>
       <find>About</find>
       <find>breadcrumb-title</find>
+      <find>blog-left-sidebar.html</find>
+      <find>01254 789 321</find>
+      <find>tel:+968573979894</find>
+      <find>info@example.com</find>
+      <find>02156 987 456</find>
+      <find>35621 895 456</find>
+      <find>Ideas es to obtain pain of itself, because it is pain, but because occasionallyght ocean</find>
+      <find>he Internet tend to repeat predefined chunk's as necessary with some of themoment</find>
+      <find>Ideas es to obtain pain of because the because occasionallyght ocean he and chunks as necessary</find>
+      <find>he Internet tend to a chunks as necessary with some of themoment</find>
+      <find>&amp;nbsp;&amp;nbsp; he Internet tend to a chunks as necessary with some of themoment</find>
+      <find>labore dolore magnam aliquam quaerat voluptatem ad minima veniam, quis nostrum exercitationem</find>
+      <find>because occasionallyght ocean he and he can make some of noise to us</find>
+      <find>56 Sheltek Tower, Cental Mall New Yourk City, USA</find>
+      <find>www.example.com</find>
+      <find>Call us:</find>
+      <find>labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam</find>
+      <find>&lt;a href=&quot;tel:+98564857652&quot; class=&quot;call&quot;&gt;+98564 857 652&lt;/a&gt;</find>
+      <find>&lt;p&gt;labore et dolore magnam aliquam quaerat voluptatem. Ut enim &lt;br&gt; ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam&lt;/p&gt;</find>
+      <find>map-area</find>
+      <find>2100</find>
+      <find>&lt;i class=&quot;fa fa-angle-down&quot;&gt;&lt;/i&gt;</find>
+      <find>Order Now</find>
     </findStrings>
     <replaceStrings>
       <replace>ICT Research and Development Lab</replace>
       <replace>&lt;a href=&quot;https://ictlab.org&quot;&gt;ictlab.org&lt;/a&gt;</replace>
+      <replace>https://blog.ictlab.org</replace>
+      <replace>087770665493</replace>
+      <replace>tel:+6287770665493</replace>
+      <replace>info@ictlab.org</replace>
+      <replace>+6287770665493</replace>
+      <replace>(Indonesia)</replace>
+      <replace>Jakarta, Indonesia</replace>
+      <replace>ictlab.org</replace>
+      <replace>Call us:</replace>
+      <replace>&amp;nbsp;&amp;nbsp;</replace>
+      <replace>&lt;a href=&quot;tel:+6287770665493&quot; class=&quot;call&quot;&gt;+6287770665493&lt;/a&gt;</replace>
+      <replace>&lt;p&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;</replace>
+      <replace />
+      <replace>5</replace>
+      <replace>&lt;!--&lt;i class=&quot;fa fa-angle-down&quot;&gt;&lt;/i&gt;--&gt;</replace>
+      <replace>Contact Us</replace>
     </replaceStrings>
+    <dirStrings>
+      <dir>C:\wamp64\www\ictlab-org.github.io</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -92,20 +205,21 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/team-details.html" />
         <option value="$PROJECT_DIR$/faq.html" />
         <option value="$PROJECT_DIR$/blog-left-sidebar.html" />
         <option value="$PROJECT_DIR$/team.html" />
         <option value="$PROJECT_DIR$/blog-right-sidebar.html" />
         <option value="$PROJECT_DIR$/service-details.html" />
-        <option value="$PROJECT_DIR$/service.html" />
         <option value="$PROJECT_DIR$/blog-grid-full-width.html" />
         <option value="$PROJECT_DIR$/blog-details-left.html" />
         <option value="$PROJECT_DIR$/blog-details.html" />
         <option value="$PROJECT_DIR$/team-2.html" />
         <option value="$PROJECT_DIR$/404.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/contact.html" />
+        <option value="$PROJECT_DIR$/about.html" />
+        <option value="$PROJECT_DIR$/service.html" />
       </list>
     </option>
   </component>
@@ -121,7 +235,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -138,6 +251,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -189,7 +303,9 @@
       <option name="presentableId" value="Default" />
       <updated>1589504693828</updated>
       <workItem from="1589504696878" duration="4536000" />
-      <workItem from="1590851600983" duration="3324000" />
+      <workItem from="1590851600983" duration="3577000" />
+      <workItem from="1591459391518" duration="1509000" />
+      <workItem from="1596257194663" duration="3603000" />
     </task>
     <task id="LOCAL-00001" summary="rebrand">
       <created>1589505048964</created>
@@ -209,13 +325,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7860000" />
+    <option name="totallyTimeSpent" value="13225000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2217806" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2217806" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -226,7 +342,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.32402235" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.32402235" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -243,34 +359,100 @@
     <option name="LAST_COMMIT_MESSAGE" value="add images" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/about.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6302">
-          <caret line="274" column="58" selection-start-line="274" selection-start-column="58" selection-end-line="274" selection-end-column="58" />
+        <state relative-caret-position="95">
+          <caret line="34" column="19" lean-forward="true" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
+          <folding>
+            <element signature="e#16932#16938#0" expanded="true" />
+            <element signature="e#16938#16944#0" expanded="true" />
+            <element signature="e#17528#17534#0" expanded="true" />
+            <element signature="e#17534#17540#0" expanded="true" />
+            <element signature="e#18129#18135#0" expanded="true" />
+            <element signature="e#18135#18141#0" expanded="true" />
+            <element signature="e#18731#18737#0" expanded="true" />
+            <element signature="e#18737#18743#0" expanded="true" />
+            <element signature="e#19915#19921#0" expanded="true" />
+            <element signature="e#19921#19927#0" expanded="true" />
+            <element signature="e#20852#20858#0" expanded="true" />
+            <element signature="e#20858#20864#0" expanded="true" />
+            <element signature="e#21500#21506#0" expanded="true" />
+            <element signature="e#21506#21512#0" expanded="true" />
+            <element signature="e#21930#21936#0" expanded="true" />
+            <element signature="e#21936#21942#0" expanded="true" />
+            <element signature="e#22357#22363#0" expanded="true" />
+            <element signature="e#22363#22369#0" expanded="true" />
+            <element signature="e#23189#23195#0" expanded="true" />
+            <element signature="e#23195#23201#0" expanded="true" />
+            <element signature="e#23611#23617#0" expanded="true" />
+            <element signature="e#23617#23623#0" expanded="true" />
+            <element signature="e#24038#24044#0" expanded="true" />
+            <element signature="e#24044#24050#0" expanded="true" />
+            <element signature="e#25009#25015#0" expanded="true" />
+            <element signature="e#25015#25021#0" expanded="true" />
+            <element signature="e#25022#25028#0" expanded="true" />
+            <element signature="e#25028#25034#0" expanded="true" />
+            <element signature="e#25406#25412#0" expanded="true" />
+            <element signature="e#25412#25418#0" expanded="true" />
+            <element signature="e#25350#25356#0" expanded="true" />
+            <element signature="e#25356#25362#0" expanded="true" />
+            <element signature="e#25798#25804#0" expanded="true" />
+            <element signature="e#25804#25810#0" expanded="true" />
+            <element signature="e#25673#25679#0" expanded="true" />
+            <element signature="e#25679#25685#0" expanded="true" />
+            <element signature="e#29739#29745#0" expanded="true" />
+            <element signature="e#29745#29751#0" expanded="true" />
+            <element signature="e#34592#34598#0" expanded="true" />
+            <element signature="e#34598#34604#0" expanded="true" />
+            <element signature="e#35801#35807#0" expanded="true" />
+            <element signature="e#35807#35813#0" expanded="true" />
+            <element signature="e#36887#36893#0" expanded="true" />
+            <element signature="e#36893#36899#0" expanded="true" />
+            <element signature="e#37974#37980#0" expanded="true" />
+            <element signature="e#37980#37986#0" expanded="true" />
+            <element signature="e#41073#41079#0" expanded="true" />
+            <element signature="e#41079#41085#0" expanded="true" />
+            <element signature="e#44324#44330#0" expanded="true" />
+            <element signature="e#44330#44336#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/team-details.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6256">
-          <caret line="272" column="43" selection-start-line="272" selection-start-column="43" selection-end-line="272" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service-details.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6302">
-          <caret line="274" column="81" selection-start-line="274" selection-start-column="81" selection-end-line="274" selection-end-column="81" />
+        <state relative-caret-position="5796">
+          <caret line="252" column="43" selection-start-line="252" selection-start-column="43" selection-end-line="252" selection-end-column="43" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/img/banner/page-banner.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/contact.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="112" column="44" selection-start-line="112" selection-start-column="44" selection-end-line="112" selection-end-column="44" />
+        <state relative-caret-position="177">
+          <caret line="299" column="78" selection-start-line="299" selection-start-column="78" selection-end-line="299" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-details.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-319">
+          <caret line="254" column="81" selection-start-line="254" selection-start-column="81" selection-end-line="254" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="301" column="44" selection-start-line="301" selection-start-column="44" selection-end-line="301" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="506" column="21" lean-forward="true" selection-start-line="426" selection-start-column="8" selection-end-line="506" selection-end-column="21" />
         </state>
       </provider>
     </entry>
