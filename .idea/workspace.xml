@@ -3,146 +3,140 @@
   <component name="ChangeListManager">
     <list default="true" id="c3b0f599-d1ec-425d-9f40-8cea848c2c3d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-details-left.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog-details-left.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog-details.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-grid-full-width.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog-grid-full-width.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-left-sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog-left-sidebar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-right-sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog-right-sidebar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/faq.html" beforeDir="false" afterPath="$PROJECT_DIR$/faq.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/service-details.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service.html" beforeDir="false" afterPath="$PROJECT_DIR$/service.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/team-2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/team-details.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/team.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/plugins/animate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/plugins/odometer.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/plugins/slick.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/vendor/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/vendor/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/about/about-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/about/about-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/banner/page-banner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/banner/page-banner.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/banner/policy-banner.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/bg/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/bg/hero-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/blog/blog-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/blog/blog-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/blog/blog-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/blog/blog-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/blog/blog-details-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/blog/blog-details-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/blog/comment-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/blog/recent-01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/blog/recent-02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/blog/recent-03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/blog/recent-04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/brand-logo/brand-logo1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/brand-logo/brand-logo2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/brand-logo/brand-logo3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/brand-logo/brand-logo4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/cta/cta.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/icon/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/icon/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/icon/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/icon/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/icon/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/icon/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/icon/arrow-next-color.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/icon/arrow-next.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/icon/arrow-prev-color.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/icon/arrow-prev.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/icon/cancel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/icon/check-tick.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/icon/en.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/icon/fr.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/icon/icon-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/icon/icon-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/icon/icon-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/icon/icon-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/logo/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/service/service-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/service/service.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/slider/slider-thumb1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/slider/slider-thumb2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/slider/slider-thumb3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/team/team-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/team/team-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/team/team-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/team/team-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/team/team-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/team/team-6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/team/team-7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/team/team-8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/testimonial/testimonial.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/plugins/ajaxchimp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/plugins/appear.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/plugins/google-map.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/plugins/odometer.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/plugins/slick.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/plugins/waypoints.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/plugins/wow.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/vendor/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/vendor/jquery-3.3.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/vendor/modernizr-3.6.0.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/vendor/popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/vendor/vendor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/php/mail.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/_components.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/_pages.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/_tableofcontent.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/_typography.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/components/_about.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/components/_breadcrumb.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/components/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/components/_common.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/components/_footer.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/components/_header.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/components/_offcanvas.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/components/_pagination.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/components/_pricing.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/components/_service.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/components/_slider.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/components/_spacing.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/components/_team.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/components/_testimonial.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/pages/_404.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/pages/_blog.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/pages/_contact.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/pages/_faq.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-details-left.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-details.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-grid-full-width.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-left-sidebar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-right-sidebar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/faq.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-details.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/team-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/team-details.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/team.html" beforeDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/.tmp/" />
-    <ignored path="$PROJECT_DIR$/temp/" />
-    <ignored path="$PROJECT_DIR$/tmp/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="34" column="19" lean-forward="true" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
-              <folding>
-                <element signature="e#16932#16938#0" expanded="true" />
-                <element signature="e#16938#16944#0" expanded="true" />
-                <element signature="e#17528#17534#0" expanded="true" />
-                <element signature="e#17534#17540#0" expanded="true" />
-                <element signature="e#18129#18135#0" expanded="true" />
-                <element signature="e#18135#18141#0" expanded="true" />
-                <element signature="e#18731#18737#0" expanded="true" />
-                <element signature="e#18737#18743#0" expanded="true" />
-                <element signature="e#19915#19921#0" expanded="true" />
-                <element signature="e#19921#19927#0" expanded="true" />
-                <element signature="e#20852#20858#0" expanded="true" />
-                <element signature="e#20858#20864#0" expanded="true" />
-                <element signature="e#21500#21506#0" expanded="true" />
-                <element signature="e#21506#21512#0" expanded="true" />
-                <element signature="e#21930#21936#0" expanded="true" />
-                <element signature="e#21936#21942#0" expanded="true" />
-                <element signature="e#22357#22363#0" expanded="true" />
-                <element signature="e#22363#22369#0" expanded="true" />
-                <element signature="e#23189#23195#0" expanded="true" />
-                <element signature="e#23195#23201#0" expanded="true" />
-                <element signature="e#23611#23617#0" expanded="true" />
-                <element signature="e#23617#23623#0" expanded="true" />
-                <element signature="e#24038#24044#0" expanded="true" />
-                <element signature="e#24044#24050#0" expanded="true" />
-                <element signature="e#25009#25015#0" expanded="true" />
-                <element signature="e#25015#25021#0" expanded="true" />
-                <element signature="e#25022#25028#0" expanded="true" />
-                <element signature="e#25028#25034#0" expanded="true" />
-                <element signature="e#25406#25412#0" expanded="true" />
-                <element signature="e#25412#25418#0" expanded="true" />
-                <element signature="e#25350#25356#0" expanded="true" />
-                <element signature="e#25356#25362#0" expanded="true" />
-                <element signature="e#25798#25804#0" expanded="true" />
-                <element signature="e#25804#25810#0" expanded="true" />
-                <element signature="e#25673#25679#0" expanded="true" />
-                <element signature="e#25679#25685#0" expanded="true" />
-                <element signature="e#29739#29745#0" expanded="true" />
-                <element signature="e#29745#29751#0" expanded="true" />
-                <element signature="e#34592#34598#0" expanded="true" />
-                <element signature="e#34598#34604#0" expanded="true" />
-                <element signature="e#35801#35807#0" expanded="true" />
-                <element signature="e#35807#35813#0" expanded="true" />
-                <element signature="e#36887#36893#0" expanded="true" />
-                <element signature="e#36893#36899#0" expanded="true" />
-                <element signature="e#37974#37980#0" expanded="true" />
-                <element signature="e#37980#37986#0" expanded="true" />
-                <element signature="e#41073#41079#0" expanded="true" />
-                <element signature="e#41079#41085#0" expanded="true" />
-                <element signature="e#44324#44330#0" expanded="true" />
-                <element signature="e#44330#44336#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/contact.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="299" column="78" selection-start-line="299" selection-start-column="78" selection-end-line="299" selection-end-column="78" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/about.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="301" column="44" selection-start-line="301" selection-start-column="44" selection-end-line="301" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/team-details.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5796">
-              <caret line="252" column="43" selection-start-line="252" selection-start-column="43" selection-end-line="252" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/service-details.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-319">
-              <caret line="254" column="81" selection-start-line="254" selection-start-column="81" selection-end-line="254" selection-end-column="81" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/service.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="117">
-              <caret line="506" column="21" lean-forward="true" selection-start-line="426" selection-start-column="8" selection-end-line="506" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/img/banner/page-banner.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-    </leaf>
+  <component name="FavoritesManager">
+    <favorites_list name="ictlab-org.github.io" />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -200,7 +194,17 @@
     </dirStrings>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="karfianto &lt;karfi.anto@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -229,37 +233,31 @@
     <option name="width" value="1554" />
     <option name="height" value="1032" />
   </component>
+  <component name="ProjectId" id="20aRbedJK2CSzHU3tsb6526JiTp" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="ictlab-org.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ictlab-org.github.io" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ictlab-org.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ictlab-org.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="NEW_TOOLWINDOW_STRIPE_DEFAULTS" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$USER_HOME$/go/src/github.com/karfianto/hugo/blog-ictlab-org" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -269,18 +267,6 @@
       <recent name="C:\wamp64\www\ictlab-org.github.io\assets\img\service" />
       <recent name="C:\wamp64\www\ictlab-org.github.io\assets\img\cta" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/ictlab-org.github.io/index.html" useBuiltInWebServerPort="true">
@@ -292,6 +278,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -305,7 +292,11 @@
       <workItem from="1589504696878" duration="4536000" />
       <workItem from="1590851600983" duration="3577000" />
       <workItem from="1591459391518" duration="1509000" />
-      <workItem from="1596257194663" duration="3603000" />
+      <workItem from="1596257194663" duration="6074000" />
+      <workItem from="1596266341947" duration="1851000" />
+      <workItem from="1596342633802" duration="1644000" />
+      <workItem from="1604049644575" duration="677000" />
+      <workItem from="1636280790171" duration="2591000" />
     </task>
     <task id="LOCAL-00001" summary="rebrand">
       <created>1589505048964</created>
@@ -321,138 +312,129 @@
       <option name="project" value="LOCAL" />
       <updated>1589592563775</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="customization">
+      <created>1596263554556</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1596263554556</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13225000" />
+    <option name="totallyTimeSpent" value="19868000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2217806" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4986226" visible="true" weight="0.2217806" />
+      <window_info id="Structure" order="1" sideWeight="0.5013774" side_tool="true" weight="0.2217806" />
+      <window_info id="Favorites" order="2" sideWeight="0.5013774" side_tool="true" weight="0.2217806" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32960895" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.32402235" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.7162162" visible="true" weight="0.34117648" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32960895" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.2837838" side_tool="true" visible="true" weight="0.34117648" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="rebrand" />
     <MESSAGE value="add images" />
-    <option name="LAST_COMMIT_MESSAGE" value="add images" />
+    <MESSAGE value="customization" />
+    <option name="LAST_COMMIT_MESSAGE" value="customization" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="34" column="19" lean-forward="true" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
-          <folding>
-            <element signature="e#16932#16938#0" expanded="true" />
-            <element signature="e#16938#16944#0" expanded="true" />
-            <element signature="e#17528#17534#0" expanded="true" />
-            <element signature="e#17534#17540#0" expanded="true" />
-            <element signature="e#18129#18135#0" expanded="true" />
-            <element signature="e#18135#18141#0" expanded="true" />
-            <element signature="e#18731#18737#0" expanded="true" />
-            <element signature="e#18737#18743#0" expanded="true" />
-            <element signature="e#19915#19921#0" expanded="true" />
-            <element signature="e#19921#19927#0" expanded="true" />
-            <element signature="e#20852#20858#0" expanded="true" />
-            <element signature="e#20858#20864#0" expanded="true" />
-            <element signature="e#21500#21506#0" expanded="true" />
-            <element signature="e#21506#21512#0" expanded="true" />
-            <element signature="e#21930#21936#0" expanded="true" />
-            <element signature="e#21936#21942#0" expanded="true" />
-            <element signature="e#22357#22363#0" expanded="true" />
-            <element signature="e#22363#22369#0" expanded="true" />
-            <element signature="e#23189#23195#0" expanded="true" />
-            <element signature="e#23195#23201#0" expanded="true" />
-            <element signature="e#23611#23617#0" expanded="true" />
-            <element signature="e#23617#23623#0" expanded="true" />
-            <element signature="e#24038#24044#0" expanded="true" />
-            <element signature="e#24044#24050#0" expanded="true" />
-            <element signature="e#25009#25015#0" expanded="true" />
-            <element signature="e#25015#25021#0" expanded="true" />
-            <element signature="e#25022#25028#0" expanded="true" />
-            <element signature="e#25028#25034#0" expanded="true" />
-            <element signature="e#25406#25412#0" expanded="true" />
-            <element signature="e#25412#25418#0" expanded="true" />
-            <element signature="e#25350#25356#0" expanded="true" />
-            <element signature="e#25356#25362#0" expanded="true" />
-            <element signature="e#25798#25804#0" expanded="true" />
-            <element signature="e#25804#25810#0" expanded="true" />
-            <element signature="e#25673#25679#0" expanded="true" />
-            <element signature="e#25679#25685#0" expanded="true" />
-            <element signature="e#29739#29745#0" expanded="true" />
-            <element signature="e#29745#29751#0" expanded="true" />
-            <element signature="e#34592#34598#0" expanded="true" />
-            <element signature="e#34598#34604#0" expanded="true" />
-            <element signature="e#35801#35807#0" expanded="true" />
-            <element signature="e#35807#35813#0" expanded="true" />
-            <element signature="e#36887#36893#0" expanded="true" />
-            <element signature="e#36893#36899#0" expanded="true" />
-            <element signature="e#37974#37980#0" expanded="true" />
-            <element signature="e#37980#37986#0" expanded="true" />
-            <element signature="e#41073#41079#0" expanded="true" />
-            <element signature="e#41079#41085#0" expanded="true" />
-            <element signature="e#44324#44330#0" expanded="true" />
-            <element signature="e#44330#44336#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="816">
+          <caret line="34" column="19" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7176">
+          <caret line="299" column="78" selection-start-line="299" selection-start-column="78" selection-end-line="299" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7224">
+          <caret line="301" column="44" selection-start-line="301" selection-start-column="44" selection-end-line="301" selection-end-column="44" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/team-details.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5796">
+        <state relative-caret-position="6048">
           <caret line="252" column="43" selection-start-line="252" selection-start-column="43" selection-end-line="252" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-details.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6096">
+          <caret line="254" column="81" selection-start-line="254" selection-start-column="81" selection-end-line="254" selection-end-column="81" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/img/banner/page-banner.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="299" column="78" selection-start-line="299" selection-start-column="78" selection-end-line="299" selection-end-column="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service-details.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-319">
-          <caret line="254" column="81" selection-start-line="254" selection-start-column="81" selection-end-line="254" selection-end-column="81" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="301" column="44" selection-start-line="301" selection-start-column="44" selection-end-line="301" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/service.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="506" column="21" lean-forward="true" selection-start-line="426" selection-start-column="8" selection-end-line="506" selection-end-column="21" />
+        <state relative-caret-position="227">
+          <caret line="504" column="22" selection-start-line="504" selection-start-column="22" selection-end-line="504" selection-end-column="22" />
         </state>
       </provider>
     </entry>

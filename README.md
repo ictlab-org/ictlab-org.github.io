@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Welcome to ICT Lab
 
-You can use the [editor on GitHub](https://github.com/ictlab-org/ictlab-org.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We provide the best solutions to improve your business by creating some exclusive way to solve your problems
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We successfully completed 5+ projects
 
-### Markdown
+### Why choose us
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Our customers chose us because we have:
 
-```markdown
-Syntax highlighted code block
+- creative ideas
+- low cost
+- talented team
+- online support
 
-# Header 1
-## Header 2
-### Header 3
+### Services that we provide
 
-- Bulleted
-- List
+1. IT Strategic Planning
+2. System Development
+3. Quality Assurance
+4. Security Audit
+5. IT Operation
 
-1. Numbered
-2. List
+### Contact
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ictlab-org/ictlab-org.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having questions? [contact us](mailto:info@ictlab.org) and we’ll help you sort it out.
