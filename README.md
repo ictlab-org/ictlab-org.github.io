@@ -1,8 +1,6 @@
 ## Welcome to ICT Lab
 
-We provide the best solutions to improve your business by creating some exclusive way to solve your problems
-
-We successfully completed 5+ projects
+We provide the best solutions to improve your business by creating some exclusive way to solve your problems.
 
 ### Free Products
 
