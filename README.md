@@ -13,6 +13,14 @@ Here's our free products:
 - [WordPress Static Site Generator](#)
 - [WordPress search service](#)
 
+### Services that we provide
+
+1. IT Strategic Planning
+2. System Development
+3. Quality Assurance
+4. Security Audit
+5. IT Operation
+
 ### Why choose us
 
 Our customers chose us because we have:
@@ -21,14 +29,6 @@ Our customers chose us because we have:
 - low cost
 - talented team
 - online support
-
-### Services that we provide
-
-1. IT Strategic Planning
-2. System Development
-3. Quality Assurance
-4. Security Audit
-5. IT Operation
 
 ### Contact
 
