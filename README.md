@@ -1,33 +1,34 @@
-## Welcome to ICT Lab
+## About me
 
-We provide the best solutions to improve your business by creating some exclusive way to solve your problems.
+Hi, 
 
-### Free Products
+I'm a solution architect, system analyst, system administrator and developer. I've been working for Indonesian Government since 2009 in Information and Communication Technology area. I've been involved in various projects including [Indonesia Open Data Portal](https://data.go.id), [National Complaint Handling System](https://www.lapor.go.id), and [Innovation Management System](https://inovasi.setneg.go.id).
 
-Here's our free products:
+I'm passionate about IT Strategic Planning, IT Security, DevOps, Open Source Software, Web Development, and Software Testing.
 
-- [Zoom meeting reminder](#)
-- [Team activity digest](#)
-- [WordPress Static Site Generator](#)
-- [WordPress search service](#)
+In the area of web development, I developed various applications for internal use and national level. They include Employee Attendance System, Electronic Meeting System, and National Program Monitoring System.
 
-### Services that we provide
+During my study in Australia, I worked as a casual tutor for Web Technology at the University. I was also active in IT Division of Indonesia Student Association in Australia (PPIA). I believe that sharing knowledge to others is fun and leads to deeper understanding on the topics. That motivates me to write articles in my blog and speak at IT seminars.
 
-1. IT Strategic Planning
-2. System Development
-3. Quality Assurance
-4. Security Audit
-5. IT Operation
+## Education background
 
-### Why choose us
+1. Bachelor of Applied Science, Sekolah Tinggi Sandi Negara (Cryptographic Engineering)
+2. Master of Management, Universitas Pembangunan Nasional Veteran Jakarta (Information Systems)
+3. Master of Information and Communication Technology Advanced, University of Wollongong, Australia (IT Strategic Planning and Information System Development)
 
-Our customers chose us because we have:
+## Organization
 
-- creative ideas
-- low cost
-- talented team
-- online support
+1. Lembaga Sandi Negara (2009)
+2. Unit Kerja Presiden Pengelolaan Program dan Reformasi (2009)
+3. Unit Kerja Presiden Bidang Pengawasan dan Pengendalian Pembangunan (2009-2015)
+4. Kantor Staf Presiden (2015-now)
+5. Ministry of State Secretariat (2020-now)
 
-### Contact
+## Professional certification
 
-Having questions? [contact us](mailto:info@ictlab.org) and we’ll help you sort it out.
+1. Linux Professional Institute Certification 1 / Novell® Certified Linux Administrator
+2. Certified Data Center Professional
+3. Certified Data Center Facilities Operations Manager
+4. EC Council Certified Security Analyst / Licensed Penetration Tester
+5. EC Council Certified Secure Programmer
+
