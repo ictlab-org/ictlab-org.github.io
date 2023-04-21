@@ -37,4 +37,7 @@ During my study in Australia, I worked as a casual tutor for Web Technology at t
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karfi/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/karfianto)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/karfianto/)
+[![Academia.edu](https://img.shields.io/badge/-Academia.edu-8B0000?style=flat&logo=academia&logoColor=white)](https://uow.academia.edu/karfianto)
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/4557260/arief-karfianto)
+
 
