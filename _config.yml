@@ -1,3 +1,14 @@
 title: Arief Karfianto
 description: Personal Project Page
 theme: jekyll-theme-architect
+sidebar:
+  nav:
+    - text: Social Media
+      icon: fab fa-twitter
+      links:
+        - url: https://twitter.com/karfianto
+          icon: fab fa-twitter
+        - url: https://www.linkedin.com/in/karfi/
+          icon: fab fa-linkedin
+        - url: https://www.instagram.com/karfianto/
+          icon: fab fa-instagram
