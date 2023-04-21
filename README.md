@@ -32,3 +32,9 @@ During my study in Australia, I worked as a casual tutor for Web Technology at t
 4. EC Council Certified Security Analyst / Licensed Penetration Tester
 5. EC Council Certified Secure Programmer
 
+## Connect
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/karfianto)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karfi/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/karfianto)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/karfianto/)
+
