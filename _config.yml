@@ -6,7 +6,7 @@ plainwhite:
   name: Arief Karfianto
   tagline: IT Architect
   date_format: "%b %-d, %Y"
-  portfolio_image:  "https://media.licdn.com/dms/image/D5603AQFTvFO8PpCUqQ/profile-displayphoto-shrink_800_800/0/1666190409425?e=2147483647&v=beta&t=TRty0BE2sF27bYGxFfDuSn5QMC3E-7RHMuGMi1pI_3w"
+  portfolio_image:  "assets/karfi.png"
   dark_mode: true
 
   social_links:
