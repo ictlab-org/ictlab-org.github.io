@@ -2,7 +2,7 @@
 
 Hi, 
 
-I'm Arief, a solution architect, system analyst, system administrator and developer. I've been working for Indonesian Government since 2009 in Information and Communication Technology area. I've been involved in various projects including [Indonesia Open Data Portal](https://data.go.id), [National Complaint Handling System](https://www.lapor.go.id), and [Innovation Management System](https://inovasi.setneg.go.id).
+I'm Arief/Karfi, a solution architect, system analyst, system administrator and developer. I've been working for Indonesian Government since 2009 in Information and Communication Technology area. I've been involved in various projects including [Indonesia Open Data Portal](https://data.go.id), [National Complaint Handling System](https://www.lapor.go.id), and [Innovation Management System](https://inovasi.setneg.go.id).
 
 I'm passionate about IT Strategic Planning, IT Security, DevOps, Open Source Software, Web Development, and Software Testing.
 
