@@ -22,7 +22,6 @@ During my study in Australia, I worked as a casual tutor for Web Technology at t
 2. Unit Kerja Presiden Pengelolaan Program dan Reformasi (2009)
 3. Unit Kerja Presiden Bidang Pengawasan dan Pengendalian Pembangunan (2009-2015)
 4. Kantor Staf Presiden (2015-now)
-5. Ministry of State Secretariat (2020-now)
 
 ## Professional certification
 
