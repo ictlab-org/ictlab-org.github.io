@@ -1,14 +1,15 @@
 title: Arief Karfianto
 description: Personal Project Page
-theme: jekyll-theme-architect
-sidebar:
-  nav:
-    - text: Social Media
-      icon: fab fa-twitter
-      links:
-        - url: https://twitter.com/karfianto
-          icon: fab fa-twitter
-        - url: https://www.linkedin.com/in/karfi/
-          icon: fab fa-linkedin
-        - url: https://www.instagram.com/karfianto/
-          icon: fab fa-instagram
+remote_theme: samarsault/plainwhite-jekyll
+plainwhite:
+  name: Arief Karfianto
+  tagline: Developer. Analyst. Architect.
+  date_format: "%b %-d, %Y"
+  portfolio_image:  "assets/karfi.png"
+  dark_mode: true
+
+  social_links:
+    twitter: karfianto
+    github: karfianto
+    linkedIn: in/karfi 
+
