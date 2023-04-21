@@ -2,6 +2,7 @@ title: Arief Karfianto
 description: Personal Project Page
 remote_theme: samarsault/plainwhite-jekyll
 plainwhite:
+  title: Arief Karfianto
   name: Arief Karfianto
   tagline: IT Architect
   date_format: "%b %-d, %Y"
