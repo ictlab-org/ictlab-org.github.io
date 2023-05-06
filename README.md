@@ -2,11 +2,9 @@
 
 Hi, 
 
-I'm Arief/Karfi, a solution architect, system analyst, system administrator and developer. I've been working for Indonesian Government since 2009 in Information and Communication Technology area. I've been involved in various projects including [Indonesia Open Data Portal](https://data.go.id), [National Complaint Handling System](https://www.lapor.go.id), and [Innovation Management System](https://inovasi.setneg.go.id).
+I'm Arief/Karfi, a penetration tester, solution architect, system analyst, system administrator and developer. I've been working since 2009 in Information and Communication Technology area. 
 
 I'm passionate about IT Strategic Planning, IT Security, DevOps, Open Source Software, Web Development, and Software Testing.
-
-In the area of web development, I developed various applications for internal use and national level. They include Employee Attendance System, Electronic Meeting System, and National Program Monitoring System.
 
 During my study in Australia, I worked as a casual tutor for Web Technology at the University. I was also active in IT Division of Indonesia Student Association in Australia (PPIA). I believe that sharing knowledge to others is fun and leads to deeper understanding on the topics. That motivates me to write articles in my blog and speak at IT seminars.
 
@@ -15,13 +13,6 @@ During my study in Australia, I worked as a casual tutor for Web Technology at t
 1. Bachelor of Applied Science, Sekolah Tinggi Sandi Negara (Cryptographic Engineering)
 2. Master of Management, Universitas Pembangunan Nasional Veteran Jakarta (Information Systems)
 3. Master of Information and Communication Technology Advanced, University of Wollongong, Australia (IT Strategic Planning and Information System Development)
-
-## Organization
-
-1. Lembaga Sandi Negara (2009)
-2. Unit Kerja Presiden Pengelolaan Program dan Reformasi (2009)
-3. Unit Kerja Presiden Bidang Pengawasan dan Pengendalian Pembangunan (2009-2015)
-4. Kantor Staf Presiden (2015-now)
 
 ## Professional certification
 
