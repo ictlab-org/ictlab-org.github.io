@@ -30,5 +30,5 @@ During my study in Australia, I worked as a casual tutor for Web Technology at t
 [![Academia.edu](https://img.shields.io/badge/-Academia.edu-8B0000?style=flat&logo=academia&logoColor=white)](https://uow.academia.edu/karfianto)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/4557260/arief-karfianto)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:karfi@ictlab.org)
-
+[![Blog](https://img.shields.io/badge/-WordPress-181717?style=flat&logo=wordpress)](https://karfianto.wordpress.com)
 
