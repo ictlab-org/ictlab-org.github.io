@@ -1,28 +1,30 @@
-## Arief Karfianto's Page
+## Empowering Future Innovators in ICT
+_Join Our Community of Learners and Experts in Software, AI, Cybersecurity, and More!_
 
-Hi, 
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/IDDevOops)
 
-I'm Arief/Karfi, a penetration tester, solution architect, system analyst, system administrator and developer. I've been working since 2009 in Information and Communication Technology area. 
+### Who We Are
+ICT Lab is a non-profit organization established in 2009, dedicated to fostering a knowledgeable and skilled community in Information and Communications Technology. We offer a supportive environment for learning and innovation in software analysis & design, programming, Linux, system administration, UI/UX design, artificial intelligence, and cybersecurity.
 
-I'm passionate about IT Strategic Planning, IT Security, DevOps, Open Source Software, Web Development, and Software Testing.
+### Our Program
+* Software Analysis & Design
+* Programming Languages
+* Linux and System Administration
+* UI/UX Design
+* Artificial Intelligence
+* Cybersecurity
 
-During my study in Australia, I worked as a casual tutor for Web Technology at the University. I was also active in IT Division of Indonesia Student Association in Australia (PPIA). I believe that sharing knowledge to others is fun and leads to deeper understanding on the topics. That motivates me to write articles in my blog and speak at IT seminars.
+### Become Part of ICT Lab community
 
-## Education background
-
-1. Bachelor of Applied Science, Sekolah Tinggi Sandi Negara (Cryptographic Engineering)
-2. Master of Management, Universitas Pembangunan Nasional Veteran Jakarta (Information Systems)
-3. Master of Information and Communication Technology Advanced, University of Wollongong, Australia (IT Strategic Planning and Information System Development)
-
-## Professional certification
-
+Whether you're a student, professional, or enthusiast, there's a place for you in our community. 
+Our member consist of professionals with various certifications including:
 1. Linux Professional Institute Certification 1 / Novell® Certified Linux Administrator
 2. Certified Data Center Professional
 3. Certified Data Center Facilities Operations Manager
 4. EC Council Certified Security Analyst / Licensed Penetration Tester
 5. EC Council Certified Secure Programmer
 
-## Connect
+## Connect with the founder
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/karfianto)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karfi/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/karfianto)
