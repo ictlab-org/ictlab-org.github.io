@@ -1,12 +1,12 @@
 title: Arief Karfianto
-description: Personal Project Page
+description: Community Page
 remote_theme: samarsault/plainwhite-jekyll
 plainwhite:
-  title: Arief Karfianto
-  name: Arief Karfianto
-  tagline: IT Architect
+  title: ICT Laboratory
+  name: ICT Laboratory
+  tagline: Public Community
   date_format: "%b %-d, %Y"
-  portfolio_image:  "assets/karfi.png"
+  portfolio_image:  "assets/ictlab.png"
   dark_mode: true
 
   social_links:
