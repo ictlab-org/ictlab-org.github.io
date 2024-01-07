@@ -1,8 +1,6 @@
 ## Empowering Future Innovators in ICT
 _Join Our Community of Learners and Experts in Software, AI, Cybersecurity, and More!_
 
-[![Join Request](https://img.shields.io/badge/GroupMe-00AFF0?style=for-the-badge&logo=groupme&logoColor=white)](mailto:karfi@ictlab.org)
-
 ### Who We Are
 ICT Lab is a non-profit organization established in 2009, dedicated to fostering a knowledgeable and skilled community in Information and Communications Technology. We offer a supportive environment for learning and innovation in software analysis & design, programming, Linux, system administration, UI/UX design, artificial intelligence, and cybersecurity.
 
