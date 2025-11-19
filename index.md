@@ -26,4 +26,4 @@ We work on various open-source projects. You can find more about our projects on
 Whether you're a student, a professional, or just an enthusiast, there are many ways to get involved with ICT Lab. You can attend our meetings, contribute to our projects, or become a mentor.
 
 ### Contact Us
-For any inquiries, please email us at [ictlab@example.com](mailto:ictlab@example.com).
+For any inquiries, please email us at [karfi@ictlab.org](mailto:karfi@ictlab.org).
