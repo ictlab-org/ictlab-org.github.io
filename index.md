@@ -20,7 +20,7 @@ ICT Lab is a non-profit organization established in 2009, dedicated to fostering
 We host regular meetings and workshops. Check our schedule for upcoming events.
 
 ### Projects
-We work on various open-source projects. You can find more about our projects on our [products page](products.md).
+We work on various open-source projects. You can find more about our projects on our [projects page](projects.md).
 
 ### Get Involved
 Whether you're a student, a professional, or just an enthusiast, there are many ways to get involved with ICT Lab. You can attend our meetings, contribute to our projects, or become a mentor.

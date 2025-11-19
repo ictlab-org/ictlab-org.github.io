@@ -15,8 +15,8 @@ plainwhite:
   navigation:
     - title: Home
       url: /
-    - title: Products
-      url: /products
+    - title: Projects
+      url: /projects
   social_links:
     github: ICT-Lab
   footer_text: "© 2023 ICT Lab. All rights reserved."
