@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Empowering Future Innovators in ICT
 _Join Our Community of Learners and Experts in Software, AI, Cybersecurity, and More!_
 
@@ -11,3 +15,15 @@ ICT Lab is a non-profit organization established in 2009, dedicated to fostering
 * UI/UX Design
 * Artificial Intelligence
 * Cybersecurity
+
+### Meetings
+We host regular meetings and workshops. Check our schedule for upcoming events.
+
+### Projects
+We work on various open-source projects. You can find more about our projects on our [products page](products.md).
+
+### Get Involved
+Whether you're a student, a professional, or just an enthusiast, there are many ways to get involved with ICT Lab. You can attend our meetings, contribute to our projects, or become a mentor.
+
+### Contact Us
+For any inquiries, please email us at [ictlab@example.com](mailto:ictlab@example.com).
