@@ -4,6 +4,9 @@ title: Projects
 permalink: /projects/
 ---
 
+* [Flakesync - Sync your NixOS configurations across machines](https://flakesync.com)
+    - Easily manage and synchronize your Nix flakes with a beautiful web interface.
+
 * [URL Checker - Find broken links on your web](https://urlchecker.ictlab.org/)
 
 * [KDNS - local DNS server and inspection tool](https://github.com/karfianto/kdns)

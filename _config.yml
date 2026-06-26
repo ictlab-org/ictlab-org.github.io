@@ -13,7 +13,6 @@ minima:
 header_pages:
   - index.md
   - projects.md
-  - README.md
 
 # The cayman-docs theme does not support social_links or footer_text.
 # social_links:

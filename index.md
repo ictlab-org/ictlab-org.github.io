@@ -6,8 +6,10 @@ title: Home
 ## Empowering Future Innovators in ICT
 _Join Our Community of Learners and Experts in Software, AI, Cybersecurity, and More!_
 
-### Who We Are
-ICT Lab is a non-profit organization established in 2009, dedicated to fostering a knowledgeable and skilled community in Information and Communications Technology. We offer a supportive environment for learning and innovation in software analysis & design, programming, Linux, system administration, UI/UX design, artificial intelligence, and cybersecurity.
+<div class="intro-card">
+  <h3>Who We Are</h3>
+  <p>ICT Lab is a non-profit organization established in 2009, dedicated to fostering a knowledgeable and skilled community in Information and Communications Technology. We offer a supportive environment for learning and innovation in software analysis & design, programming, Linux, system administration, UI/UX design, artificial intelligence, and cybersecurity.</p>
+</div>
 
 ### Our Program
 * Software Analysis & Design

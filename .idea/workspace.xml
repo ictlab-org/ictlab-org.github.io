@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3b0f599-d1ec-425d-9f40-8cea848c2c3d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects.md" beforeDir="false" afterPath="$PROJECT_DIR$/projects.md" afterDir="false" />
-    </list>
+    <list default="true" id="c3b0f599-d1ec-425d-9f40-8cea848c2c3d" name="Default Changelist" comment="Switch to Minima theme, restructure files and update layouts" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -270,7 +268,7 @@
       <workItem from="1604049644575" duration="677000" />
       <workItem from="1636280790171" duration="2591000" />
       <workItem from="1782489351973" duration="149000" />
-      <workItem from="1782489557794" duration="312000" />
+      <workItem from="1782489557794" duration="625000" />
     </task>
     <task id="LOCAL-00001" summary="rebrand">
       <created>1589505048964</created>
@@ -293,7 +291,31 @@
       <option name="project" value="LOCAL" />
       <updated>1596263554556</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Switch to Minima theme, restructure files and update layouts">
+      <option name="closed" value="true" />
+      <created>1782489885347</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1782489885347</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Switch to Minima theme, restructure files and update layouts">
+      <option name="closed" value="true" />
+      <created>1782490039746</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1782490039746</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Switch to Minima theme, restructure files and update layouts">
+      <option name="closed" value="true" />
+      <created>1782490181918</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1782490181918</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -363,7 +385,8 @@
     <MESSAGE value="rebrand" />
     <MESSAGE value="add images" />
     <MESSAGE value="customization" />
-    <option name="LAST_COMMIT_MESSAGE" value="customization" />
+    <MESSAGE value="Switch to Minima theme, restructure files and update layouts" />
+    <option name="LAST_COMMIT_MESSAGE" value="Switch to Minima theme, restructure files and update layouts" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
