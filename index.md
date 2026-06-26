@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: home
+title: Home
 ---
 
 ## Empowering Future Innovators in ICT

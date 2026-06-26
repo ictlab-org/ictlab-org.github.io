@@ -3,140 +3,18 @@
   <component name="ChangeListManager">
     <list default="true" id="c3b0f599-d1ec-425d-9f40-8cea848c2c3d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/plugins/animate.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/plugins/odometer.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/plugins/slick.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/vendor/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/vendor/font-awesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/FontAwesome.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/about/about-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/about/about-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/banner/page-banner.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/banner/page-banner.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/banner/policy-banner.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/bg/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/bg/hero-bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/blog/blog-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/blog/blog-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/blog/blog-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/blog/blog-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/blog/blog-details-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/blog/blog-details-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/blog/comment-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/blog/recent-01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/blog/recent-02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/blog/recent-03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/blog/recent-04.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/brand-logo/brand-logo1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/brand-logo/brand-logo2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/brand-logo/brand-logo3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/brand-logo/brand-logo4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/cta/cta.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/icon/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/icon/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/icon/3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/icon/4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/icon/5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/icon/6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/icon/arrow-next-color.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/icon/arrow-next.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/icon/arrow-prev-color.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/icon/arrow-prev.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/icon/cancel.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/icon/check-tick.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/icon/en.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/icon/fr.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/icon/icon-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/icon/icon-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/icon/icon-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/icon/icon-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/logo/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/service/service-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/service/service.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/slider/slider-thumb1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/slider/slider-thumb2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/slider/slider-thumb3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/team/team-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/team/team-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/team/team-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/team/team-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/team/team-5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/team/team-6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/team/team-7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/team/team-8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/testimonial/testimonial.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/plugins/ajaxchimp.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/plugins/appear.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/plugins/google-map.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/plugins/odometer.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/plugins/slick.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/plugins/waypoints.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/plugins/wow.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/vendor/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/vendor/jquery-3.3.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/vendor/modernizr-3.6.0.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/vendor/popper.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/vendor/vendor.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/php/mail.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scss/_components.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scss/_mixins.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scss/_pages.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scss/_tableofcontent.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scss/_typography.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scss/_variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scss/components/_about.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scss/components/_breadcrumb.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scss/components/_buttons.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scss/components/_common.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scss/components/_footer.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scss/components/_header.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scss/components/_offcanvas.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scss/components/_pagination.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scss/components/_pricing.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scss/components/_service.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scss/components/_slider.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scss/components/_spacing.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scss/components/_team.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scss/components/_testimonial.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scss/pages/_404.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scss/pages/_blog.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scss/pages/_contact.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scss/pages/_faq.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scss/style.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-details-left.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-details.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-grid-full-width.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-left-sidebar.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-right-sidebar.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/faq.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index-2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-details.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/team-2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/team-details.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/team.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects.md" beforeDir="false" afterPath="$PROJECT_DIR$/projects.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FavoritesManager">
-    <favorites_list name="ictlab-org.github.io" />
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="14" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -206,6 +84,18 @@
       </map>
     </option>
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;karfianto&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ictlab-org/ictlab-org.github.io&quot;,
+    &quot;accountId&quot;: &quot;6f59948d-bb92-4892-b1d6-e4456280100a&quot;
+  }
+}</component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -227,6 +117,73 @@
       </list>
     </option>
   </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="2.025984786207912" />
+      <entry key="MS500" value="4.603694206215502" />
+      <entry key="S2" value="10.92780784354755" />
+      <entry key="S5" value="22.456289304292607" />
+      <entry key="S10" value="34.99432958107996" />
+      <entry key="S30" value="53.17204797351626" />
+      <entry key="S60" value="60.28177821736726" />
+      <entry key="M2" value="64.4143926679554" />
+      <entry key="M5" value="67.1077322417574" />
+      <entry key="M10" value="68.04387085453338" />
+      <entry key="M15" value="68.36033465128291" />
+      <entry key="M30" value="68.67903810892352" />
+      <entry key="H1" value="68.8392355703203" />
+      <entry key="H2" value="68.91954676604212" />
+      <entry key="H4" value="68.95975560969435" />
+      <entry key="D1" value="68.99329013152226" />
+      <entry key="W1" value="68.99904138684776" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.9144171612622476" />
+      <entry key="MS500" value="4.552933269320892" />
+      <entry key="S2" value="10.896874114379619" />
+      <entry key="S5" value="22.429921835778934" />
+      <entry key="S10" value="34.97087649098678" />
+      <entry key="S30" value="53.15724254898742" />
+      <entry key="S60" value="60.27272776196042" />
+      <entry key="M2" value="64.40935737506013" />
+      <entry key="M5" value="67.10558055587646" />
+      <entry key="M10" value="68.04277069476615" />
+      <entry key="M15" value="68.35959569998299" />
+      <entry key="M30" value="68.6786658501325" />
+      <entry key="H1" value="68.83904873995336" />
+      <entry key="H2" value="68.91945317496354" />
+      <entry key="H4" value="68.95970877009944" />
+      <entry key="D1" value="68.9932823187973" />
+      <entry key="W1" value="68.99904027059408" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="99" />
     <option name="y" value="12" />
@@ -234,7 +191,6 @@
     <option name="height" value="1032" />
   </component>
   <component name="ProjectId" id="20aRbedJK2CSzHU3tsb6526JiTp" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -248,17 +204,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="NEW_TOOLWINDOW_STRIPE_DEFAULTS" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="TODO_SCOPE" value="All Places" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/go/src/github.com/karfianto/hugo/blog-ictlab-org" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
-    <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "ml.llm.LLMConfigurable",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\wamp64\www\ictlab-org.github.io\assets\img\blog" />
@@ -277,6 +242,13 @@
         <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-WS-261.25134.101" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -297,6 +269,8 @@
       <workItem from="1596342633802" duration="1644000" />
       <workItem from="1604049644575" duration="677000" />
       <workItem from="1636280790171" duration="2591000" />
+      <workItem from="1782489351973" duration="149000" />
+      <workItem from="1782489557794" duration="312000" />
     </task>
     <task id="LOCAL-00001" summary="rebrand">
       <created>1589505048964</created>
@@ -360,15 +334,6 @@
     <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
     <option name="RECENT_FILTERS">
       <map>
         <entry key="Branch">
@@ -384,7 +349,15 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="rebrand" />

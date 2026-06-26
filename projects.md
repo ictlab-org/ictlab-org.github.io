@@ -1,4 +1,8 @@
-# Our projects
+---
+layout: page
+title: Projects
+permalink: /projects/
+---
 
 * [URL Checker - Find broken links on your web](https://urlchecker.ictlab.org/)
 

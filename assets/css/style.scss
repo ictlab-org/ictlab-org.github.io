@@ -1,0 +1,55 @@
+---
+---
+@import "{{ site.theme }}";
+
+/* Lovable-inspired styles */
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  color: #1a1a1a;
+  line-height: 1.6;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 600;
+  color: #000;
+  margin-top: 1.5em;
+}
+
+.site-header {
+  border-top: none;
+  border-bottom: 1px solid #eee;
+  padding: 1.5rem 0;
+}
+
+.site-title {
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+.wrapper {
+  max-width: 800px;
+}
+
+a {
+  color: #3b82f6;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+a:hover {
+  color: #2563eb;
+  text-decoration: underline;
+}
+
+.page-heading {
+  font-size: 2.25rem;
+  letter-spacing: -0.02em;
+  margin-bottom: 2rem;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 1rem;
+}
+
+/* Hide footer specifically if the include didn't work as expected */
+.site-footer {
+  display: none !important;
+}

@@ -1,17 +1,22 @@
 title: ICT Lab
 description: Empowering Future Innovators in ICT
 logo: "assets/ictlab.png"
-remote_theme: Bilal2453/cayman-docs
+# theme: jekyll-theme-cayman
+remote_theme: jekyll/minima
 plugins:
-- jekyll-remote-theme
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-feed
 
-navigation:
-  - title: Home
-    url: /
-  - title: Projects
-    url: /projects
+minima:
+  skin: classic
+
+header_pages:
+  - index.md
+  - projects.md
+  - README.md
 
 # The cayman-docs theme does not support social_links or footer_text.
 # social_links:
 #   github: ICT-Lab
-# footer_text: "© 2023 ICT Lab. All rights reserved."
+footer_text: none
